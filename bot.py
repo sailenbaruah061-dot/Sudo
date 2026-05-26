@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ========= CONFIGURATION =========
-TOKEN = "8712150869:AAFJ5LxIQ4MkCZQUXyvoFI0UNf2b2coHNh8"  # .env / render env se bhi le sakte ho
+TOKEN = "8931408596:AAHpQAeA0iLWLQjrltfJ1RZYfrh5HNrSbGQ"  # .env / render env se bhi le sakte ho
 OWNER_ID = 8722144519     # अपनी टेलीग्राम user id डालो
 SUDO_USERS = [OWNER_ID]    # sudo users ki list
 BAN_LIST = []              # ban ki list
